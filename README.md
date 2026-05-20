@@ -36,9 +36,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
 </div>
-  
-###
-
-<img src="https://raw.githubusercontent.com/Gheorghe-Bastos/Gheorghe-Bastos/snake-output/snake.svg" alt="Snake animation" />
 
 ###

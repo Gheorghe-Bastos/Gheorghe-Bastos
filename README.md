@@ -1,7 +1,7 @@
 <h1 align="left">Olá, me chamo Gheorghe</h1>
+<img align="right" height="217" src="https://i1.sndcdn.com/avatars-Vi4pnpMAz6uo8W0l-OMZ0Ug-t1080x1080.jpg"  />
 
 ###
-<img align="right" height="217" src="https://i1.sndcdn.com/avatars-Vi4pnpMAz6uo8W0l-OMZ0Ug-t1080x1080.jpg"  />
 
 <p align="left">Estudando para me tornar desenvolvedor full-stack</p>
 
@@ -9,15 +9,9 @@
 
 <p align="left">🧑🏻‍💻 Desenvolvimento de aplicações Web<br>📚 Estudando Vue, Nuxt.js e Supabase</p>
 
-###
-
-
-
-###
+<br><br>
 
 <h2 align="left">Minhas stacks e ferramentas 🚀</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />

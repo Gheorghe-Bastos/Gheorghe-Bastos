@@ -9,7 +9,7 @@
 
 <p align="left">🧑🏻‍💻 Desenvolvimento de aplicações Web<br>📚 Estudando Vue, Nuxt.js e Supabase</p>
 
-<br><br>
+<br><br><br>
 
 <h2 align="left">Minhas stacks e ferramentas 🚀</h2>
 

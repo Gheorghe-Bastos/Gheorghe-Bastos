@@ -32,8 +32,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="35" alt="supabase logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
 </div>
 
